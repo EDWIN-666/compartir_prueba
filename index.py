@@ -5,4 +5,4 @@ import random;
 
 # maquina = random(opciones);
 
-print("hla");
+print("hola");
