@@ -3,6 +3,6 @@ import random;
 
 opciones=["piedra","papel" ,"tijera"];
 
-maquina = random(opciones);
+maquin = random(opciones);
 
-print(maquina);
+print(maquin);
